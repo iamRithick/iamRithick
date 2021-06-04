@@ -1,6 +1,5 @@
-while(Desire to Develop):<br>
-    Love to learn;<br>
-    return (Crave to Create);
+function Crave_to_Create():<br>
+&emsp result (Love_to_learn + Desire_to_Develop);
 <!---
 👋 Hi, I’m @iamRithick
 - 👀 I’m interested in ...
