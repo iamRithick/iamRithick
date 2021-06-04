@@ -1,5 +1,5 @@
 function Crave_to_Create():<br>
-.   result (Love_to_learn + Desire_to_Develop);
+	return (Love_to_Learn + Desire_to_Develop);
 <!---
 👋 Hi, I’m @iamRithick
 - 👀 I’m interested in ...
