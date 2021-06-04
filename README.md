@@ -1,14 +1,13 @@
-- <!---
+while(Desire to Develop):
+    Love to learn;
+    return (Crave to Create);
+<!---
 👋 Hi, I’m @iamRithick
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-
-while(Desire to Develop):
-    Love to learn;
-    return (Crave to Create);
 
 
 <!---
